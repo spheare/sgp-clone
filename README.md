@@ -4,7 +4,7 @@
 
 [![SauceLabs status][saucelabs-status]][saucelabs]
 
-This is the official repository of [SuperGenPass][sgp]. It contains code for the
+This is a cloned repository of [SuperGenPass][sgp]. It contains code for the
 bookmarklet and the mobile version. The underlying algorithm that is used by
 SuperGenPass to generate passwords has its own repository:
 [chriszarate/supergenpass-lib][sgp-lib].
